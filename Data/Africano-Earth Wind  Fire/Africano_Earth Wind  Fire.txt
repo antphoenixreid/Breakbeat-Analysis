@@ -1,0 +1,13 @@
+Artist: Africano
+Track Title: Earth, Wind & Fire
+Duration (minutes): 5.154433333333333
+Key: E
+Time Signature: 4
+Tempo: 131.972
+Energy: 0.564
+Danceability: 0.535
+Speechiness: 0.0583
+Acousticness: 0.286
+Instrumentalness: 0.631
+Liveness: 0.4
+Valence: 0.549

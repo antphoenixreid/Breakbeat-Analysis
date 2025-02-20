@@ -1,0 +1,13 @@
+Artist: I Believe In Miracles
+Track Title: Jackson Sisters
+Duration (minutes): 4.837766666666667
+Key: D
+Time Signature: 4
+Tempo: 107.81
+Energy: 0.791
+Danceability: 0.656
+Speechiness: 0.0573
+Acousticness: 0.0514
+Instrumentalness: 4.27e-06
+Liveness: 0.463
+Valence: 0.85

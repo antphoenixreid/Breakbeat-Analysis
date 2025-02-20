@@ -1,0 +1,13 @@
+Artist: Get On The Good Foot
+Track Title: James Brown
+Duration (minutes): 4.1411
+Key: G
+Time Signature: 4
+Tempo: 107.596
+Energy: 0.722
+Danceability: 0.849
+Speechiness: 0.133
+Acousticness: 0.0174
+Instrumentalness: 1.18e-05
+Liveness: 0.0378
+Valence: 0.888

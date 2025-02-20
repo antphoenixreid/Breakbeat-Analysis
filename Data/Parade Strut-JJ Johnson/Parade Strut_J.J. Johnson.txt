@@ -1,0 +1,13 @@
+Artist: Parade Strut
+Track Title: J.J. Johnson
+Duration (minutes): 2.602883333333333
+Key: D#
+Time Signature: 4
+Tempo: 113.7
+Energy: 0.745
+Danceability: 0.779
+Speechiness: 0.0584
+Acousticness: 0.158
+Instrumentalness: 0.143
+Liveness: 0.0936
+Valence: 0.819

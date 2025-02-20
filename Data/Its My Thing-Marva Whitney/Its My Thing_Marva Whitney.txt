@@ -1,0 +1,13 @@
+Artist: It's My Thing (You Can't Tell Me Who To Sock It To)
+Track Title: Marva Whitney
+Duration (minutes): 3.9628833333333335
+Key: D
+Time Signature: 4
+Tempo: 107.901
+Energy: 0.517
+Danceability: 0.774
+Speechiness: 0.0584
+Acousticness: 0.208
+Instrumentalness: 0.00505
+Liveness: 0.0754
+Valence: 0.852

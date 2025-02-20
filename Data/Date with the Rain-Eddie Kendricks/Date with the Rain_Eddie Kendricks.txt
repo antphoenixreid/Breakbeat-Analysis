@@ -1,0 +1,13 @@
+Artist: Date With The Rain
+Track Title: Eddie Kendricks
+Duration (minutes): 2.681766666666667
+Key: A
+Time Signature: 4
+Tempo: 123.132
+Energy: 0.723
+Danceability: 0.619
+Speechiness: 0.128
+Acousticness: 0.353
+Instrumentalness: 0
+Liveness: 0.122
+Valence: 0.563

@@ -1,0 +1,13 @@
+Artist: Take Off Your Make Up
+Track Title: Lamont Dozier
+Duration (minutes): 4.97995
+Key: D#
+Time Signature: 4
+Tempo: 184.326
+Energy: 0.72
+Danceability: 0.452
+Speechiness: 0.0514
+Acousticness: 0.302
+Instrumentalness: 3.47e-05
+Liveness: 0.18
+Valence: 0.827

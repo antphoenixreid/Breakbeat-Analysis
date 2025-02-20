@@ -1,0 +1,13 @@
+Artist: U.F.O
+Track Title: ESG
+Duration (minutes): 2.92955
+Key: C#
+Time Signature: 4
+Tempo: 140.066
+Energy: 0.526
+Danceability: 0.476
+Speechiness: 0.155
+Acousticness: 0.000201
+Instrumentalness: 0.912
+Liveness: 0.0917
+Valence: 0.128

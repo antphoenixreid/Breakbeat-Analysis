@@ -1,0 +1,13 @@
+Artist: Misdemeanor
+Track Title: Foster Sylvers
+Duration (minutes): 2.5557666666666665
+Key: D
+Time Signature: 4
+Tempo: 88.295
+Energy: 0.666
+Danceability: 0.762
+Speechiness: 0.0446
+Acousticness: 0.338
+Instrumentalness: 0
+Liveness: 0.039
+Valence: 0.895

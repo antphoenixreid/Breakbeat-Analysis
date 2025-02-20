@@ -1,0 +1,13 @@
+Artist: Oh Honey
+Track Title: Delegation
+Duration (minutes): 5.9366666666666665
+Key: D
+Time Signature: 4
+Tempo: 94.161
+Energy: 0.42
+Danceability: 0.734
+Speechiness: 0.028
+Acousticness: 0.188
+Instrumentalness: 0.242
+Liveness: 0.0826
+Valence: 0.462

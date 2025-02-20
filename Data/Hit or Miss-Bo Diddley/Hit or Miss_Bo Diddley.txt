@@ -1,0 +1,13 @@
+Artist: Hit Or Miss
+Track Title: Bo Diddley
+Duration (minutes): 3.7293333333333334
+Key: G
+Time Signature: 4
+Tempo: 100.311
+Energy: 0.618
+Danceability: 0.705
+Speechiness: 0.0682
+Acousticness: 0.326
+Instrumentalness: 0.00119
+Liveness: 0.102
+Valence: 0.785

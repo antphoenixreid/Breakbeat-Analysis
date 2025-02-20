@@ -1,0 +1,13 @@
+Artist: Give It To You
+Track Title: UPP
+Duration (minutes): 7.174
+Key: D
+Time Signature: 4
+Tempo: 109.608
+Energy: 0.493
+Danceability: 0.518
+Speechiness: 0.109
+Acousticness: 0.366
+Instrumentalness: 0.0349
+Liveness: 0.102
+Valence: 0.865

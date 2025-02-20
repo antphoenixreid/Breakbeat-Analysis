@@ -1,0 +1,13 @@
+Artist: Jam On the Groove
+Track Title: Ralph MacDonald
+Duration (minutes): 5.884883333333334
+Key: C#
+Time Signature: 4
+Tempo: 111.065
+Energy: 0.814
+Danceability: 0.817
+Speechiness: 0.0444
+Acousticness: 0.19
+Instrumentalness: 0.788
+Liveness: 0.0641
+Valence: 0.974

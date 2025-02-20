@@ -1,0 +1,13 @@
+Artist: Sneakin' In the Back
+Track Title: Tom Scott
+Duration (minutes): 4.538883333333334
+Key: A#
+Time Signature: 4
+Tempo: 98.383
+Energy: 0.271
+Danceability: 0.718
+Speechiness: 0.0406
+Acousticness: 0.289
+Instrumentalness: 0.75
+Liveness: 0.059
+Valence: 0.7

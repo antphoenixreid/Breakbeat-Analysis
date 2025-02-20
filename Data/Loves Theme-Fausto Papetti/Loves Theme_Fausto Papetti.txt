@@ -1,0 +1,13 @@
+Artist: Love Theme From "Lady Sings the Blues"
+Track Title: Fausto Papetti
+Duration (minutes): 3.716666666666667
+Key: G#
+Time Signature: 4
+Tempo: 146.906
+Energy: 0.167
+Danceability: 0.329
+Speechiness: 0.0373
+Acousticness: 0.734
+Instrumentalness: 0.194
+Liveness: 0.118
+Valence: 0.317

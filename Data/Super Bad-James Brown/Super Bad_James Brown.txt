@@ -1,0 +1,13 @@
+Artist: Super Bad
+Track Title: James Brown
+Duration (minutes): 4.45155
+Key: D
+Time Signature: 4
+Tempo: 124.887
+Energy: 0.806
+Danceability: 0.92
+Speechiness: 0.0683
+Acousticness: 0.575
+Instrumentalness: 0.00621
+Liveness: 0.109
+Valence: 0.938

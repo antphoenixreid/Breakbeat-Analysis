@@ -1,0 +1,13 @@
+Artist: Sister Sanctified (with Milt Jackson)
+Track Title: Stanley Turrentine
+Duration (minutes): 6.071766666666667
+Key: F
+Time Signature: 4
+Tempo: 93.874
+Energy: 0.613
+Danceability: 0.612
+Speechiness: 0.0363
+Acousticness: 0.234
+Instrumentalness: 0.0179
+Liveness: 0.192
+Valence: 0.789

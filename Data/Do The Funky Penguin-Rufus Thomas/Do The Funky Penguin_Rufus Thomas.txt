@@ -1,0 +1,13 @@
+Artist: Do The Funky Penguin - Part 1
+Track Title: Rufus Thomas
+Duration (minutes): 3.157783333333333
+Key: D
+Time Signature: 4
+Tempo: 101.026
+Energy: 0.577
+Danceability: 0.798
+Speechiness: 0.0785
+Acousticness: 0.0481
+Instrumentalness: 0.00358
+Liveness: 0.0586
+Valence: 0.926

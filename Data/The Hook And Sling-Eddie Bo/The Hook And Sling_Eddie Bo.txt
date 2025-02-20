@@ -1,0 +1,13 @@
+Artist: The Hook & Sling - Vocal Mix
+Track Title: Eddie Bo
+Duration (minutes): 3.677766666666667
+Key: G#
+Time Signature: 4
+Tempo: 99.083
+Energy: 0.851
+Danceability: 0.757
+Speechiness: 0.0764
+Acousticness: 0.0192
+Instrumentalness: 0.0109
+Liveness: 0.19
+Valence: 0.962

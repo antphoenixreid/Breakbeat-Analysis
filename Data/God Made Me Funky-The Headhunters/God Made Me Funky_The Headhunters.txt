@@ -1,0 +1,13 @@
+Artist: God Made Me Funky
+Track Title: The Headhunters
+Duration (minutes): 5.400433333333333
+Key: D
+Time Signature: 4
+Tempo: 98.792
+Energy: 0.797
+Danceability: 0.689
+Speechiness: 0.204
+Acousticness: 0.133
+Instrumentalness: 9.37e-05
+Liveness: 0.0907
+Valence: 0.446

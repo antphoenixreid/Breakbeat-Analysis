@@ -1,0 +1,13 @@
+Artist: Take The Money And Run
+Track Title: Steve Miller Band
+Duration (minutes): 2.8828833333333335
+Key: C
+Time Signature: 4
+Tempo: 98.114
+Energy: 0.603
+Danceability: 0.587
+Speechiness: 0.0437
+Acousticness: 0.0189
+Instrumentalness: 0
+Liveness: 0.0967
+Valence: 0.878

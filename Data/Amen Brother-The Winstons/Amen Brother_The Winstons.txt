@@ -1,0 +1,13 @@
+Artist: Amen Brother
+Track Title: The Winstons
+Duration (minutes): 2.6093333333333333
+Key: C#
+Time Signature: 4
+Tempo: 129.686
+Energy: 0.728
+Danceability: 0.412
+Speechiness: 0.0326
+Acousticness: 0.00389
+Instrumentalness: 0.882
+Liveness: 0.159
+Valence: 0.795

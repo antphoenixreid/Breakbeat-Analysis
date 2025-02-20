@@ -1,0 +1,13 @@
+Artist: Long Red
+Track Title: Mountain
+Duration (minutes): 3.259333333333333
+Key: G
+Time Signature: 4
+Tempo: 91.113
+Energy: 0.343
+Danceability: 0.768
+Speechiness: 0.036
+Acousticness: 0.675
+Instrumentalness: 0.015
+Liveness: 0.093
+Valence: 0.551

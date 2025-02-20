@@ -1,0 +1,13 @@
+Artist: Family Affair (feat. Leon Huff)
+Track Title: MFSB
+Duration (minutes): 4.358883333333333
+Key: D
+Time Signature: 4
+Tempo: 120.908
+Energy: 0.723
+Danceability: 0.749
+Speechiness: 0.037
+Acousticness: 0.192
+Instrumentalness: 0.897
+Liveness: 0.0734
+Valence: 0.935

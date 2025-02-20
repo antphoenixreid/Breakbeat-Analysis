@@ -1,0 +1,13 @@
+Artist: Kool Is Back
+Track Title: Funk Inc.
+Duration (minutes): 8.312666666666667
+Key: C
+Time Signature: 4
+Tempo: 102.826
+Energy: 0.808
+Danceability: 0.703
+Speechiness: 0.0654
+Acousticness: 0.591
+Instrumentalness: 0.00719
+Liveness: 0.0682
+Valence: 0.75

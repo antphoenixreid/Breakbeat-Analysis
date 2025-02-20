@@ -1,0 +1,13 @@
+Artist: Theme from the Planets
+Track Title: Dexter Wansel
+Duration (minutes): 4.866666666666666
+Key: C
+Time Signature: 4
+Tempo: 80.042
+Energy: 0.623
+Danceability: 0.563
+Speechiness: 0.0419
+Acousticness: 0.00691
+Instrumentalness: 0.436
+Liveness: 0.0597
+Valence: 0.637

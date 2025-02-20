@@ -1,0 +1,13 @@
+Artist: Chinese Chicken
+Track Title: Duke Williams and the Extremes
+Duration (minutes): 2.878433333333333
+Key: D
+Time Signature: 4
+Tempo: 117.58
+Energy: 0.905
+Danceability: 0.672
+Speechiness: 0.0466
+Acousticness: 0.034
+Instrumentalness: 0.784
+Liveness: 0.0969
+Valence: 0.959

@@ -1,0 +1,13 @@
+Artist: You Can't Love Me If You Don't Respect Me
+Track Title: Lyn Collins
+Duration (minutes): 5.542216666666667
+Key: A
+Time Signature: 4
+Tempo: 100.333
+Energy: 0.766
+Danceability: 0.715
+Speechiness: 0.0674
+Acousticness: 0.278
+Instrumentalness: 0.0498
+Liveness: 0.366
+Valence: 0.872

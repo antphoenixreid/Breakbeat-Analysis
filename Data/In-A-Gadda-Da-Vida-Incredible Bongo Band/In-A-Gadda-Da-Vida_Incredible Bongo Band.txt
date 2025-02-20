@@ -1,0 +1,13 @@
+Artist: In a Gadda Da Vida
+Track Title: Incredible Bongo Band
+Duration (minutes): 7.7251
+Key: G
+Time Signature: 4
+Tempo: 115.769
+Energy: 0.792
+Danceability: 0.575
+Speechiness: 0.0386
+Acousticness: 0.00999
+Instrumentalness: 0.932
+Liveness: 0.236
+Valence: 0.558

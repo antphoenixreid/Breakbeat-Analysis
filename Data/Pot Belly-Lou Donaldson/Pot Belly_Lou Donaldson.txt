@@ -1,0 +1,13 @@
+Artist: Pot Belly
+Track Title: Lou Donaldson
+Duration (minutes): 8.193766666666667
+Key: F
+Time Signature: 4
+Tempo: 96.881
+Energy: 0.47
+Danceability: 0.624
+Speechiness: 0.0272
+Acousticness: 0.264
+Instrumentalness: 0.362
+Liveness: 0.0736
+Valence: 0.389

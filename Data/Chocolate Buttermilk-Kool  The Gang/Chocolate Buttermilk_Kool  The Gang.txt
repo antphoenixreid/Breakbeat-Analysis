@@ -1,0 +1,13 @@
+Artist: Chocolate Buttermilk
+Track Title: Kool & The Gang
+Duration (minutes): 2.2557666666666667
+Key: D
+Time Signature: 4
+Tempo: 110.11
+Energy: 0.716
+Danceability: 0.609
+Speechiness: 0.0653
+Acousticness: 0.118
+Instrumentalness: 0.939
+Liveness: 0.302
+Valence: 0.886

@@ -1,0 +1,13 @@
+Artist: Bustin' Loose
+Track Title: Chuck Brown and the Soul Searchers
+Duration (minutes): 7.707766666666667
+Key: D#
+Time Signature: 4
+Tempo: 111.457
+Energy: 0.896
+Danceability: 0.865
+Speechiness: 0.0623
+Acousticness: 0.27
+Instrumentalness: 0.0488
+Liveness: 0.0676
+Valence: 0.944

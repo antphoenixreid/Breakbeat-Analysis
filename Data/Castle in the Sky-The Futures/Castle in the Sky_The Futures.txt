@@ -1,0 +1,13 @@
+Artist: Castles
+Track Title: The Futures
+Duration (minutes): 7.79755
+Key: F#
+Time Signature: 4
+Tempo: 127.385
+Energy: 0.7
+Danceability: 0.507
+Speechiness: 0.0838
+Acousticness: 0.0861
+Instrumentalness: 0.0104
+Liveness: 0.0565
+Valence: 0.749

@@ -1,0 +1,13 @@
+Artist: Down on the Avenue
+Track Title: Fat Larry's Band
+Duration (minutes): 5.2911
+Key: D
+Time Signature: 4
+Tempo: 92.877
+Energy: 0.701
+Danceability: 0.751
+Speechiness: 0.129
+Acousticness: 0.0279
+Instrumentalness: 1.46e-06
+Liveness: 0.0413
+Valence: 0.792

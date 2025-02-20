@@ -1,0 +1,13 @@
+Artist: Let A Woman Be A Woman - Let A Man Be A Man
+Track Title: Dyke & The Blazers
+Duration (minutes): 3.2184666666666666
+Key: A
+Time Signature: 4
+Tempo: 112.093
+Energy: 0.605
+Danceability: 0.834
+Speechiness: 0.0913
+Acousticness: 0.329
+Instrumentalness: 9.15e-05
+Liveness: 0.0692
+Valence: 0.897

@@ -1,0 +1,13 @@
+Artist: Gotta Get Out Of Here - Original Mix
+Track Title: Lucy Hawkins
+Duration (minutes): 5.84
+Key: A#
+Time Signature: 4
+Tempo: 117.596
+Energy: 0.905
+Danceability: 0.82
+Speechiness: 0.0969
+Acousticness: 0.267
+Instrumentalness: 0.000204
+Liveness: 0.578
+Valence: 0.929

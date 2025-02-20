@@ -1,0 +1,13 @@
+Artist: Indiscreet
+Track Title: D.C. LaRue
+Duration (minutes): 7.0908
+Key: D
+Time Signature: 4
+Tempo: 116.049
+Energy: 0.62
+Danceability: 0.737
+Speechiness: 0.0949
+Acousticness: 0.0415
+Instrumentalness: 0.00254
+Liveness: 0.131
+Valence: 0.571

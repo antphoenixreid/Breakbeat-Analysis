@@ -1,0 +1,13 @@
+Artist: Love the Life You Live
+Track Title: Black Heat
+Duration (minutes): 6.514883333333334
+Key: F
+Time Signature: 4
+Tempo: 129.218
+Energy: 0.845
+Danceability: 0.54
+Speechiness: 0.187
+Acousticness: 0.245
+Instrumentalness: 0.104
+Liveness: 0.0748
+Valence: 0.631

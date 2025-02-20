@@ -1,0 +1,13 @@
+Artist: Flip (Remastered 2022)
+Track Title: Jesse Green
+Duration (minutes): 3.2922166666666666
+Key: A
+Time Signature: 4
+Tempo: 124.064
+Energy: 0.911
+Danceability: 0.69
+Speechiness: 0.0392
+Acousticness: 0.0657
+Instrumentalness: 0.00655
+Liveness: 0.0625
+Valence: 0.952

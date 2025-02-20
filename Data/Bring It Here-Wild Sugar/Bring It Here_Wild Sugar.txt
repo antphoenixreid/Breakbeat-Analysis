@@ -1,0 +1,13 @@
+Artist: Bring It Here
+Track Title: Wild Sugar
+Duration (minutes): 6.09885
+Key: B
+Time Signature: 4
+Tempo: 118.328
+Energy: 0.465
+Danceability: 0.79
+Speechiness: 0.0796
+Acousticness: 0.0607
+Instrumentalness: 0.239
+Liveness: 0.0192
+Valence: 0.662

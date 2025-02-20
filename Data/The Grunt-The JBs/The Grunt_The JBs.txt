@@ -1,0 +1,13 @@
+Artist: The Grunt
+Track Title: The J.B.'s
+Duration (minutes): 2.7944333333333335
+Key: A
+Time Signature: 4
+Tempo: 105.672
+Energy: 0.768
+Danceability: 0.716
+Speechiness: 0.142
+Acousticness: 0.0785
+Instrumentalness: 0.725
+Liveness: 0.187
+Valence: 0.829

@@ -1,0 +1,13 @@
+Artist: Dance to the Drummer's Beat
+Track Title: Herman Kelly & Life
+Duration (minutes): 5.1593333333333335
+Key: F#
+Time Signature: 4
+Tempo: 120.054
+Energy: 0.928
+Danceability: 0.848
+Speechiness: 0.0752
+Acousticness: 0.119
+Instrumentalness: 0.00306
+Liveness: 0.358
+Valence: 0.929

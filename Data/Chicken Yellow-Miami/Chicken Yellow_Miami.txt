@@ -1,0 +1,13 @@
+Artist: Chicken Yellow
+Track Title: Miami
+Duration (minutes): 2.8842166666666667
+Key: B
+Time Signature: 4
+Tempo: 102.645
+Energy: 0.623
+Danceability: 0.804
+Speechiness: 0.033
+Acousticness: 0.22
+Instrumentalness: 0.885
+Liveness: 0.107
+Valence: 0.854

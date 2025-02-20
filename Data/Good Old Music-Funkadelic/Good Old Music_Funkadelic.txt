@@ -1,0 +1,13 @@
+Artist: Good Old Music
+Track Title: Funkadelic
+Duration (minutes): 8.086383333333334
+Key: A#
+Time Signature: 4
+Tempo: 155.138
+Energy: 0.585
+Danceability: 0.557
+Speechiness: 0.0624
+Acousticness: 0.301
+Instrumentalness: 0.0171
+Liveness: 0.0582
+Valence: 0.651

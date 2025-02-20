@@ -1,0 +1,13 @@
+Artist: Give It Up Or Turnit A Loose - Remix
+Track Title: James Brown
+Duration (minutes): 6.17
+Key: B
+Time Signature: 4
+Tempo: 114.847
+Energy: 0.722
+Danceability: 0.698
+Speechiness: 0.0508
+Acousticness: 0.0386
+Instrumentalness: 0.548
+Liveness: 0.0919
+Valence: 0.776

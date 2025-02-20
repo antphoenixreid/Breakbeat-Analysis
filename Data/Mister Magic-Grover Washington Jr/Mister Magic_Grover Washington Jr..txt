@@ -1,0 +1,13 @@
+Artist: Mister Magic
+Track Title: Grover Washington, Jr.
+Duration (minutes): 9.030433333333333
+Key: F
+Time Signature: 4
+Tempo: 103.812
+Energy: 0.64
+Danceability: 0.734
+Speechiness: 0.0661
+Acousticness: 0.00606
+Instrumentalness: 0.37
+Liveness: 0.0602
+Valence: 0.868

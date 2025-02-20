@@ -1,0 +1,13 @@
+Artist: Main Theme from Star Wars
+Track Title: David Matthews
+Duration (minutes): 3.4808833333333333
+Key: A#
+Time Signature: 4
+Tempo: 115.167
+Energy: 0.757
+Danceability: 0.602
+Speechiness: 0.0714
+Acousticness: 0.0308
+Instrumentalness: 0.845
+Liveness: 0.404
+Valence: 0.708

@@ -1,0 +1,13 @@
+Artist: Burning Spear
+Track Title: S.O.U.L.
+Duration (minutes): 3.9181666666666666
+Key: C#
+Time Signature: 4
+Tempo: 110.522
+Energy: 0.527
+Danceability: 0.607
+Speechiness: 0.368
+Acousticness: 0.153
+Instrumentalness: 0.818
+Liveness: 0.122
+Valence: 0.773

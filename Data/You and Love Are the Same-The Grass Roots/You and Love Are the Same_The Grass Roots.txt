@@ -1,0 +1,13 @@
+Artist: You And Love Are The Same
+Track Title: The Grass Roots
+Duration (minutes): 2.7866666666666666
+Key: A
+Time Signature: 4
+Tempo: 122.299
+Energy: 0.356
+Danceability: 0.485
+Speechiness: 0.0597
+Acousticness: 0.0326
+Instrumentalness: 2.06e-05
+Liveness: 0.0743
+Valence: 0.525

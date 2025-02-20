@@ -1,0 +1,13 @@
+Artist: Honky Tonk Women
+Track Title: The Rolling Stones
+Duration (minutes): 3.0451
+Key: G
+Time Signature: 4
+Tempo: 119.285
+Energy: 0.721
+Danceability: 0.56
+Speechiness: 0.0629
+Acousticness: 0.225
+Instrumentalness: 0.0339
+Liveness: 0.0453
+Valence: 0.966

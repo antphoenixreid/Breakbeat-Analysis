@@ -1,0 +1,13 @@
+Artist: I'm Gonna Love You Just A Little More Baby
+Track Title: Barry White
+Duration (minutes): 7.191766666666667
+Key: G
+Time Signature: 4
+Tempo: 87.567
+Energy: 0.486
+Danceability: 0.606
+Speechiness: 0.041
+Acousticness: 0.0111
+Instrumentalness: 0.00145
+Liveness: 0.0757
+Valence: 0.809

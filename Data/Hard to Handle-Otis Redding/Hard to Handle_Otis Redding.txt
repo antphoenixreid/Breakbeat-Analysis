@@ -1,0 +1,13 @@
+Artist: Hard to Handle
+Track Title: Otis Redding
+Duration (minutes): 2.35
+Key: A#
+Time Signature: 4
+Tempo: 95.552
+Energy: 0.55
+Danceability: 0.666
+Speechiness: 0.0612
+Acousticness: 0.573
+Instrumentalness: 1.84e-06
+Liveness: 0.122
+Valence: 0.961

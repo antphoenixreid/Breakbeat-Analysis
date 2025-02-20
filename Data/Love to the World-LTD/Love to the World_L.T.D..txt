@@ -1,0 +1,13 @@
+Artist: Love Ballad
+Track Title: L.T.D.
+Duration (minutes): 4.5871
+Key: F#
+Time Signature: 4
+Tempo: 77.697
+Energy: 0.385
+Danceability: 0.602
+Speechiness: 0.0385
+Acousticness: 0.449
+Instrumentalness: 0.000111
+Liveness: 0.0803
+Valence: 0.354

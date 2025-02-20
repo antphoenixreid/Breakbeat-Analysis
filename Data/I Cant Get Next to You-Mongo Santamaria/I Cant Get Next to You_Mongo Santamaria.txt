@@ -1,0 +1,13 @@
+Artist: I Can't Get Next to You
+Track Title: Mongo Santamaria
+Duration (minutes): 2.7428833333333333
+Key: A#
+Time Signature: 4
+Tempo: 136.116
+Energy: 0.789
+Danceability: 0.598
+Speechiness: 0.0757
+Acousticness: 0.504
+Instrumentalness: 0.648
+Liveness: 0.0587
+Valence: 0.61

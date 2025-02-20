@@ -1,0 +1,13 @@
+Artist: Joyous
+Track Title: Pleasure
+Duration (minutes): 6.4969166666666665
+Key: C
+Time Signature: 4
+Tempo: 112.244
+Energy: 0.829
+Danceability: 0.453
+Speechiness: 0.0425
+Acousticness: 0.0301
+Instrumentalness: 0.00743
+Liveness: 0.0514
+Valence: 0.906

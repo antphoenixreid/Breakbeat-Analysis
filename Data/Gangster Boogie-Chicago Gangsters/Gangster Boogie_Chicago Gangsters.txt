@@ -1,0 +1,13 @@
+Artist: Gangster Boogie
+Track Title: Chicago Gangsters
+Duration (minutes): 5.243333333333333
+Key: A#
+Time Signature: 4
+Tempo: 108.373
+Energy: 0.996
+Danceability: 0.558
+Speechiness: 0.139
+Acousticness: 0.245
+Instrumentalness: 0.361
+Liveness: 0.327
+Valence: 0.71

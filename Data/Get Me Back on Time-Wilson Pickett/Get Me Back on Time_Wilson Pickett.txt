@@ -1,0 +1,13 @@
+Artist: Get Me Back on Time, Engine Number 9 (Pt. 1 & Pt. 2)
+Track Title: Wilson Pickett
+Duration (minutes): 6.46555
+Key: A#
+Time Signature: 4
+Tempo: 97.064
+Energy: 0.909
+Danceability: 0.68
+Speechiness: 0.0712
+Acousticness: 0.00993
+Instrumentalness: 0.00161
+Liveness: 0.0978
+Valence: 0.633

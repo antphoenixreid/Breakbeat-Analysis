@@ -1,0 +1,13 @@
+Artist: The Payback
+Track Title: James Brown
+Duration (minutes): 7.664883333333333
+Key: F#
+Time Signature: 4
+Tempo: 97.933
+Energy: 0.644
+Danceability: 0.868
+Speechiness: 0.194
+Acousticness: 0.159
+Instrumentalness: 0.00018
+Liveness: 0.901
+Valence: 0.785

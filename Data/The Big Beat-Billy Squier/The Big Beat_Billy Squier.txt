@@ -1,0 +1,13 @@
+Artist: The Big Beat
+Track Title: Billy Squier
+Duration (minutes): 3.6611
+Key: G
+Time Signature: 4
+Tempo: 101.793
+Energy: 0.845
+Danceability: 0.569
+Speechiness: 0.0654
+Acousticness: 0.0328
+Instrumentalness: 0.00865
+Liveness: 0.0992
+Valence: 0.558

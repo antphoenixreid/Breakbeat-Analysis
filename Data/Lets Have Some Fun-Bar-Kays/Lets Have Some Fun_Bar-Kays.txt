@@ -1,0 +1,13 @@
+Artist: Let's Have Some Fun
+Track Title: The Bar-Kays
+Duration (minutes): 6.076
+Key: A#
+Time Signature: 4
+Tempo: 109.098
+Energy: 0.705
+Danceability: 0.838
+Speechiness: 0.0699
+Acousticness: 0.0673
+Instrumentalness: 0.00101
+Liveness: 0.289
+Valence: 0.829

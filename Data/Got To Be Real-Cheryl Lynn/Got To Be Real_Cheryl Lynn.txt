@@ -1,0 +1,13 @@
+Artist: Got to Be Real
+Track Title: Cheryl Lynn
+Duration (minutes): 5.132433333333333
+Key: A
+Time Signature: 4
+Tempo: 114.657
+Energy: 0.626
+Danceability: 0.836
+Speechiness: 0.0335
+Acousticness: 0.0943
+Instrumentalness: 0.742
+Liveness: 0.153
+Valence: 0.898

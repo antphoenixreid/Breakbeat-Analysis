@@ -1,0 +1,13 @@
+Artist: I Think I'd Do It
+Track Title: Z.Z. Hill
+Duration (minutes): 2.1980333333333335
+Key: C
+Time Signature: 4
+Tempo: 108.925
+Energy: 0.599
+Danceability: 0.697
+Speechiness: 0.119
+Acousticness: 0.0149
+Instrumentalness: 0.00372
+Liveness: 0.0543
+Valence: 0.961

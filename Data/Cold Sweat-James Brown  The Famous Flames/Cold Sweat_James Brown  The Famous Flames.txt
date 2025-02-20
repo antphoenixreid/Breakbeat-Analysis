@@ -1,0 +1,13 @@
+Artist: Cold Sweat Part 1
+Track Title: James Brown & The Famous Flames
+Duration (minutes): 2.416
+Key: G
+Time Signature: 4
+Tempo: 112.451
+Energy: 0.28
+Danceability: 0.894
+Speechiness: 0.0545
+Acousticness: 0.31
+Instrumentalness: 0
+Liveness: 0.132
+Valence: 0.842

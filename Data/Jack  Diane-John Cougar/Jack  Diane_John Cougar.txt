@@ -1,0 +1,13 @@
+Artist: Jack & Diane
+Track Title: John Mellencamp
+Duration (minutes): 4.24155
+Key: A
+Time Signature: 4
+Tempo: 103.965
+Energy: 0.41
+Danceability: 0.811
+Speechiness: 0.0391
+Acousticness: 0.0365
+Instrumentalness: 6.63e-06
+Liveness: 0.0799
+Valence: 0.626

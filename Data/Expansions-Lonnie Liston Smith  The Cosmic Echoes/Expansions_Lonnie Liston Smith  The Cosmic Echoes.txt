@@ -1,0 +1,13 @@
+Artist: Expansions
+Track Title: Lonnie Liston Smith
+Duration (minutes): 6.114433333333333
+Key: F
+Time Signature: 4
+Tempo: 126.808
+Energy: 0.694
+Danceability: 0.537
+Speechiness: 0.0509
+Acousticness: 0.114
+Instrumentalness: 0.0879
+Liveness: 0.346
+Valence: 0.924

@@ -1,0 +1,13 @@
+Artist: Scorpio
+Track Title: Dennis Coffey & The Detroit Guitar Band
+Duration (minutes): 4.38715
+Key: B
+Time Signature: 4
+Tempo: 119.142
+Energy: 0.764
+Danceability: 0.693
+Speechiness: 0.0716
+Acousticness: 0.289
+Instrumentalness: 0.882
+Liveness: 0.311
+Valence: 0.645

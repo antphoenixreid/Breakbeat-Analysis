@@ -1,0 +1,13 @@
+Artist: Get Ready
+Track Title: Rare Earth
+Duration (minutes): 21.538216666666667
+Key: C
+Time Signature: 4
+Tempo: 127.355
+Energy: 0.869
+Danceability: 0.413
+Speechiness: 0.0441
+Acousticness: 0.00283
+Instrumentalness: 0.529
+Liveness: 0.827
+Valence: 0.65

@@ -1,0 +1,13 @@
+Artist: I Can't Stop - Kenny Dope's Remix
+Track Title: John Davis & The Monster Orchestra
+Duration (minutes): 6.5765
+Key: C
+Time Signature: 4
+Tempo: 118.201
+Energy: 0.659
+Danceability: 0.796
+Speechiness: 0.0414
+Acousticness: 0.0273
+Instrumentalness: 0.614
+Liveness: 0.0785
+Valence: 0.869

@@ -1,0 +1,13 @@
+Artist: Kool & The Gang
+Track Title: Kool & The Gang
+Duration (minutes): 2.9668833333333335
+Key: C
+Time Signature: 4
+Tempo: 135.504
+Energy: 0.782
+Danceability: 0.61
+Speechiness: 0.0554
+Acousticness: 0.235
+Instrumentalness: 0.388
+Liveness: 0.239
+Valence: 0.704

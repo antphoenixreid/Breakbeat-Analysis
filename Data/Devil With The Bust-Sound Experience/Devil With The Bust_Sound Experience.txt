@@ -1,0 +1,13 @@
+Artist: Devil With The Bust
+Track Title: Sound Experience
+Duration (minutes): 5.726666666666667
+Key: D
+Time Signature: 4
+Tempo: 111.528
+Energy: 0.804
+Danceability: 0.664
+Speechiness: 0.0495
+Acousticness: 0.00329
+Instrumentalness: 0.00513
+Liveness: 0.119
+Valence: 0.756

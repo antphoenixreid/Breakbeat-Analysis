@@ -1,0 +1,13 @@
+Artist: Tramp - Live
+Track Title: Lowell Fulson
+Duration (minutes): 4.3017666666666665
+Key: F
+Time Signature: 4
+Tempo: 117.188
+Energy: 0.914
+Danceability: 0.418
+Speechiness: 0.0527
+Acousticness: 0.227
+Instrumentalness: 0.00561
+Liveness: 0.747
+Valence: 0.71

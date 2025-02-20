@@ -1,0 +1,13 @@
+Artist: Action
+Track Title: Orange Krush
+Duration (minutes): 6.733333333333333
+Key: A#
+Time Signature: 4
+Tempo: 106.798
+Energy: 0.326
+Danceability: 0.817
+Speechiness: 0.137
+Acousticness: 0.00192
+Instrumentalness: 0.0608
+Liveness: 0.105
+Valence: 0.886

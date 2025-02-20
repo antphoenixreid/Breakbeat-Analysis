@@ -1,0 +1,13 @@
+Artist: Get Out of My Life Woman
+Track Title: Solomon Burke
+Duration (minutes): 3.367766666666667
+Key: G
+Time Signature: 4
+Tempo: 95.022
+Energy: 0.411
+Danceability: 0.716
+Speechiness: 0.0465
+Acousticness: 0.27
+Instrumentalness: 0
+Liveness: 0.132
+Valence: 0.897

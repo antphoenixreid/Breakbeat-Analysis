@@ -1,0 +1,13 @@
+Artist: Love and Affection
+Track Title: Ike White
+Duration (minutes): 5.9989
+Key: D
+Time Signature: 4
+Tempo: 103.332
+Energy: 0.834
+Danceability: 0.768
+Speechiness: 0.06
+Acousticness: 0.0573
+Instrumentalness: 0.00899
+Liveness: 0.118
+Valence: 0.431

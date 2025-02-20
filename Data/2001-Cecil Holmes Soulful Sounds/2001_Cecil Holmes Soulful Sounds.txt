@@ -1,0 +1,13 @@
+Artist: Also Sprach Zarathrusta (2001)
+Track Title: The Cecil Holmes Soulful Sounds
+Duration (minutes): 2.84155
+Key: G
+Time Signature: 4
+Tempo: 111.117
+Energy: 0.686
+Danceability: 0.607
+Speechiness: 0.0301
+Acousticness: 0.0939
+Instrumentalness: 0.884
+Liveness: 0.185
+Valence: 0.945

@@ -1,0 +1,13 @@
+Artist: Rock Steady
+Track Title: Aretha Franklin
+Duration (minutes): 3.2262166666666667
+Key: G
+Time Signature: 4
+Tempo: 104.7
+Energy: 0.752
+Danceability: 0.749
+Speechiness: 0.126
+Acousticness: 0.0108
+Instrumentalness: 0.0954
+Liveness: 0.235
+Valence: 0.887

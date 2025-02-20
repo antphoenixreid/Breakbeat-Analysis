@@ -1,0 +1,13 @@
+Artist: Get Up, Get Into It, Get Involved
+Track Title: James Brown
+Duration (minutes): 7.076666666666667
+Key: C
+Time Signature: 4
+Tempo: 108.447
+Energy: 0.912
+Danceability: 0.797
+Speechiness: 0.129
+Acousticness: 0.441
+Instrumentalness: 2.36e-06
+Liveness: 0.0443
+Valence: 0.915

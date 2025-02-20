@@ -1,0 +1,13 @@
+Artist: Blind Alley
+Track Title: The Emotions
+Duration (minutes): 3.0688833333333334
+Key: D
+Time Signature: 4
+Tempo: 105.595
+Energy: 0.435
+Danceability: 0.768
+Speechiness: 0.0376
+Acousticness: 0.0149
+Instrumentalness: 0.00726
+Liveness: 0.096
+Valence: 0.97

@@ -1,0 +1,13 @@
+Artist: You Should've Listened
+Track Title: Black Heat
+Duration (minutes): 5.655766666666667
+Key: F#
+Time Signature: 4
+Tempo: 105.693
+Energy: 0.891
+Danceability: 0.583
+Speechiness: 0.0432
+Acousticness: 0.107
+Instrumentalness: 0.164
+Liveness: 0.231
+Valence: 0.801

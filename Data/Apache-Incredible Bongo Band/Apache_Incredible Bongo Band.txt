@@ -1,0 +1,13 @@
+Artist: Apache
+Track Title: Incredible Bongo Band
+Duration (minutes): 4.890433333333333
+Key: G
+Time Signature: 4
+Tempo: 118.245
+Energy: 0.764
+Danceability: 0.659
+Speechiness: 0.176
+Acousticness: 0.0106
+Instrumentalness: 0.874
+Liveness: 0.0761
+Valence: 0.551

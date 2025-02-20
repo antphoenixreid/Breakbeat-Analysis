@@ -1,0 +1,13 @@
+Artist: Soul Pride (Parts 1 And 2)
+Track Title: James Brown
+Duration (minutes): 4.480433333333333
+Key: C
+Time Signature: 4
+Tempo: 126.915
+Energy: 0.852
+Danceability: 0.569
+Speechiness: 0.0573
+Acousticness: 0.248
+Instrumentalness: 0.906
+Liveness: 0.103
+Valence: 0.66

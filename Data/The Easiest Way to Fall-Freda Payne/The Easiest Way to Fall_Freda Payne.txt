@@ -1,0 +1,13 @@
+Artist: The Easiest Way To Fall
+Track Title: Freda Payne
+Duration (minutes): 2.6111
+Key: F
+Time Signature: 4
+Tempo: 84.009
+Energy: 0.583
+Danceability: 0.574
+Speechiness: 0.0362
+Acousticness: 0.127
+Instrumentalness: 0
+Liveness: 0.0902
+Valence: 0.803

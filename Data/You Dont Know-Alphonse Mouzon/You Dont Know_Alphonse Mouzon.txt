@@ -1,0 +1,13 @@
+Artist: You Don't Know How Much I Love You
+Track Title: Alphonse Mouzon
+Duration (minutes): 4.743333333333333
+Key: C
+Time Signature: 4
+Tempo: 103.217
+Energy: 0.584
+Danceability: 0.725
+Speechiness: 0.1
+Acousticness: 0.392
+Instrumentalness: 1.07e-05
+Liveness: 0.0439
+Valence: 0.881

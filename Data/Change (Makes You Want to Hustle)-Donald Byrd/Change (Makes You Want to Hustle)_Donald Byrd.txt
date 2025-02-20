@@ -1,0 +1,13 @@
+Artist: Change (Makes You Want To Hustle)
+Track Title: Donald Byrd
+Duration (minutes): 5.140433333333333
+Key: C#
+Time Signature: 4
+Tempo: 105.578
+Energy: 0.816
+Danceability: 0.699
+Speechiness: 0.0673
+Acousticness: 0.0771
+Instrumentalness: 0.276
+Liveness: 0.369
+Valence: 0.686

@@ -1,0 +1,13 @@
+Artist: Heaven and Hell Is on Earth
+Track Title: 20th Century Steel Band
+Duration (minutes): 5.2191
+Key: D
+Time Signature: 4
+Tempo: 107.363
+Energy: 0.501
+Danceability: 0.674
+Speechiness: 0.0579
+Acousticness: 0.0398
+Instrumentalness: 0.000123
+Liveness: 0.0818
+Valence: 0.563

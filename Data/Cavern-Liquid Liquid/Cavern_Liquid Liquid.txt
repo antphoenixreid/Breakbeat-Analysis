@@ -1,0 +1,13 @@
+Artist: Cavern
+Track Title: Liquid Liquid
+Duration (minutes): 5.39155
+Key: G
+Time Signature: 4
+Tempo: 115.405
+Energy: 0.752
+Danceability: 0.681
+Speechiness: 0.0531
+Acousticness: 0.0124
+Instrumentalness: 0.783
+Liveness: 0.077
+Valence: 0.323

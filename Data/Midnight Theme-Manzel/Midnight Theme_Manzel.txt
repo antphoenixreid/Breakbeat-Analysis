@@ -1,0 +1,13 @@
+Artist: Midnight Theme - Dopebrother 7 Inch Remix
+Track Title: Manzel
+Duration (minutes): 3.752666666666667
+Key: C#
+Time Signature: 4
+Tempo: 98.916
+Energy: 0.689
+Danceability: 0.711
+Speechiness: 0.058
+Acousticness: 0.0283
+Instrumentalness: 0.914
+Liveness: 0.0451
+Valence: 0.964

@@ -1,0 +1,13 @@
+Artist: Do The Funky Penguin (Part 2)
+Track Title: Rufus Thomas
+Duration (minutes): 3.365283333333333
+Key: A#
+Time Signature: 4
+Tempo: 101.058
+Energy: 0.639
+Danceability: 0.738
+Speechiness: 0.199
+Acousticness: 0.116
+Instrumentalness: 5.64e-06
+Liveness: 0.0755
+Valence: 0.709

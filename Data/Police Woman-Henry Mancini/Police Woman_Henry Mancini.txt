@@ -1,0 +1,13 @@
+Artist: Police Woman
+Track Title: Henry Mancini
+Duration (minutes): 3.2657666666666665
+Key: G
+Time Signature: 4
+Tempo: 119.804
+Energy: 0.414
+Danceability: 0.67
+Speechiness: 0.0666
+Acousticness: 0.206
+Instrumentalness: 0.812
+Liveness: 0.0443
+Valence: 0.72

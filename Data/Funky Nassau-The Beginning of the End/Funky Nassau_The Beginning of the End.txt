@@ -1,0 +1,13 @@
+Artist: Funky Nassau - Full Length Edit
+Track Title: The Beginning Of The End
+Duration (minutes): 5.0391
+Key: F#
+Time Signature: 4
+Tempo: 121.489
+Energy: 0.855
+Danceability: 0.659
+Speechiness: 0.0351
+Acousticness: 0.382
+Instrumentalness: 0.0048
+Liveness: 0.429
+Valence: 0.961

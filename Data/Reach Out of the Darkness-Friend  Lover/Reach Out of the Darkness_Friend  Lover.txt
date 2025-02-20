@@ -1,0 +1,13 @@
+Artist: Reach Out Of The Darkness
+Track Title: Friend & Lover
+Duration (minutes): 3.1784333333333334
+Key: D
+Time Signature: 4
+Tempo: 116.421
+Energy: 0.432
+Danceability: 0.637
+Speechiness: 0.033
+Acousticness: 0.0267
+Instrumentalness: 0.0185
+Liveness: 0.0756
+Valence: 0.856

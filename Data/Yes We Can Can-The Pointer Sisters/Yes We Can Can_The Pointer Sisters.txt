@@ -1,0 +1,13 @@
+Artist: Yes We Can Can
+Track Title: The Pointer Sisters
+Duration (minutes): 6.04555
+Key: G
+Time Signature: 4
+Tempo: 88.383
+Energy: 0.544
+Danceability: 0.745
+Speechiness: 0.21
+Acousticness: 0.0239
+Instrumentalness: 0.000524
+Liveness: 0.0901
+Valence: 0.84

@@ -1,0 +1,13 @@
+Artist: Sing Sing
+Track Title: Gaz
+Duration (minutes): 7.252183333333333
+Key: G
+Time Signature: 4
+Tempo: 113.631
+Energy: 0.44
+Danceability: 0.923
+Speechiness: 0.0906
+Acousticness: 0.034
+Instrumentalness: 0.00288
+Liveness: 0.0625
+Valence: 0.85

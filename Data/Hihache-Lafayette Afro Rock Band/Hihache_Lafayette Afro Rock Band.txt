@@ -1,0 +1,13 @@
+Artist: Hihache
+Track Title: Lafayette Afro Rock Band
+Duration (minutes): 6.950666666666667
+Key: C
+Time Signature: 4
+Tempo: 109.629
+Energy: 0.543
+Danceability: 0.549
+Speechiness: 0.067
+Acousticness: 0.0822
+Instrumentalness: 0.745
+Liveness: 0.101
+Valence: 0.875

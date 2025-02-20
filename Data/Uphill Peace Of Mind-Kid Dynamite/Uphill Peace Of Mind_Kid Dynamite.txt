@@ -1,0 +1,13 @@
+Artist: Uphill Peace of Mind
+Track Title: Kid Dynamite
+Duration (minutes): 4.296883333333334
+Key: E
+Time Signature: 4
+Tempo: 94.197
+Energy: 0.693
+Danceability: 0.72
+Speechiness: 0.132
+Acousticness: 0.749
+Instrumentalness: 0.0247
+Liveness: 0.178
+Valence: 0.821

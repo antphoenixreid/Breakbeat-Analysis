@@ -1,0 +1,13 @@
+Artist: Street Talk (Madam Rapper)
+Track Title: Funky Constellation
+Duration (minutes): 9.817333333333334
+Key: C
+Time Signature: 4
+Tempo: 115.016
+Energy: 0.528
+Danceability: 0.885
+Speechiness: 0.162
+Acousticness: 0.127
+Instrumentalness: 0.000116
+Liveness: 0.0697
+Valence: 0.852

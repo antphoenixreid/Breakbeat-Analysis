@@ -1,0 +1,13 @@
+Artist: Think (About It)
+Track Title: Lyn Collins
+Duration (minutes): 3.4026666666666667
+Key: A
+Time Signature: 4
+Tempo: 112.582
+Energy: 0.561
+Danceability: 0.773
+Speechiness: 0.225
+Acousticness: 0.204
+Instrumentalness: 0
+Liveness: 0.0575
+Valence: 0.717

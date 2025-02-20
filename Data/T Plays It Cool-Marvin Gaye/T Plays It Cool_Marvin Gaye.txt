@@ -1,0 +1,13 @@
+Artist: "T" Plays It Cool
+Track Title: Marvin Gaye
+Duration (minutes): 4.441766666666667
+Key: F
+Time Signature: 4
+Tempo: 105.902
+Energy: 0.834
+Danceability: 0.757
+Speechiness: 0.0373
+Acousticness: 0.195
+Instrumentalness: 0.85
+Liveness: 0.0992
+Valence: 0.909

@@ -1,0 +1,13 @@
+Artist: Rock Creek Park
+Track Title: The Blackbyrds
+Duration (minutes): 4.633333333333334
+Key: D
+Time Signature: 4
+Tempo: 110.708
+Energy: 0.761
+Danceability: 0.748
+Speechiness: 0.0619
+Acousticness: 0.148
+Instrumentalness: 0.004
+Liveness: 0.0746
+Valence: 0.654

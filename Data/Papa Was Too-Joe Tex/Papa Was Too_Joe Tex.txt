@@ -1,0 +1,13 @@
+Artist: Papa Was Too
+Track Title: Joe Tex
+Duration (minutes): 2.9844333333333335
+Key: A#
+Time Signature: 4
+Tempo: 91.211
+Energy: 0.397
+Danceability: 0.742
+Speechiness: 0.0697
+Acousticness: 0.539
+Instrumentalness: 0
+Liveness: 0.0874
+Valence: 0.612

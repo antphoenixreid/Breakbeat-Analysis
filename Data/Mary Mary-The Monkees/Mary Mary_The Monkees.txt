@@ -1,0 +1,13 @@
+Artist: Mary, Mary
+Track Title: The Monkees
+Duration (minutes): 2.260666666666667
+Key: B
+Time Signature: 4
+Tempo: 126.895
+Energy: 0.564
+Danceability: 0.682
+Speechiness: 0.0278
+Acousticness: 0.0315
+Instrumentalness: 0
+Liveness: 0.19
+Valence: 0.934

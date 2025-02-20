@@ -1,0 +1,13 @@
+Artist: Brothers On The Slide
+Track Title: Cymande
+Duration (minutes): 4.19
+Key: G
+Time Signature: 4
+Tempo: 109.704
+Energy: 0.602
+Danceability: 0.815
+Speechiness: 0.196
+Acousticness: 0.3
+Instrumentalness: 0.00548
+Liveness: 0.0737
+Valence: 0.805

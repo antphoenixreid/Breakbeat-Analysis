@@ -1,0 +1,13 @@
+Artist: Lonesome Cowboy
+Track Title: Roy Ayers Ubiquity
+Duration (minutes): 4.0611
+Key: C
+Time Signature: 4
+Tempo: 94.154
+Energy: 0.799
+Danceability: 0.621
+Speechiness: 0.269
+Acousticness: 0.644
+Instrumentalness: 0
+Liveness: 0.0996
+Valence: 0.875

@@ -1,0 +1,13 @@
+Artist: Dizzy
+Track Title: Tommy Roe
+Duration (minutes): 2.958
+Key: F#
+Time Signature: 4
+Tempo: 102.007
+Energy: 0.595
+Danceability: 0.736
+Speechiness: 0.0354
+Acousticness: 0.000512
+Instrumentalness: 0.0118
+Liveness: 0.144
+Valence: 0.72

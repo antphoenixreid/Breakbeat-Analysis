@@ -1,0 +1,13 @@
+Artist: Yellow Sunshine
+Track Title: Yellow Sunshine
+Duration (minutes): 3.3951
+Key: D
+Time Signature: 4
+Tempo: 119.936
+Energy: 0.843
+Danceability: 0.616
+Speechiness: 0.162
+Acousticness: 0.0332
+Instrumentalness: 0.000395
+Liveness: 0.44
+Valence: 0.813

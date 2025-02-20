@@ -1,0 +1,13 @@
+Artist: Space Funk - Dopebrother 7 Inch Remix
+Track Title: Manzel
+Duration (minutes): 4.228433333333333
+Key: B
+Time Signature: 4
+Tempo: 116.572
+Energy: 0.897
+Danceability: 0.67
+Speechiness: 0.0625
+Acousticness: 0.00167
+Instrumentalness: 0.888
+Liveness: 0.343
+Valence: 0.679

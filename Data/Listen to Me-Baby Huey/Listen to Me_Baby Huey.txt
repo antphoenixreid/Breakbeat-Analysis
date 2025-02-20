@@ -1,0 +1,13 @@
+Artist: Listen To Me
+Track Title: Baby Huey
+Duration (minutes): 6.692433333333334
+Key: C
+Time Signature: 4
+Tempo: 110.658
+Energy: 0.686
+Danceability: 0.399
+Speechiness: 0.0596
+Acousticness: 0.0666
+Instrumentalness: 0.00387
+Liveness: 0.122
+Valence: 0.56

@@ -1,0 +1,13 @@
+Artist: Groove to Get Down
+Track Title: T-Connection
+Duration (minutes): 4.162
+Key: C#
+Time Signature: 4
+Tempo: 117.394
+Energy: 0.761
+Danceability: 0.754
+Speechiness: 0.0618
+Acousticness: 0.135
+Instrumentalness: 0.178
+Liveness: 0.0921
+Valence: 0.859

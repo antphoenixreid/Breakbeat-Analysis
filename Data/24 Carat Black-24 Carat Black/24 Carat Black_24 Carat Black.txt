@@ -1,0 +1,13 @@
+Artist: 24-Carat Black (Theme)
+Track Title: 24 Carat Black
+Duration (minutes): 7.251616666666667
+Key: G
+Time Signature: 4
+Tempo: 119.861
+Energy: 0.676
+Danceability: 0.521
+Speechiness: 0.0289
+Acousticness: 0.0345
+Instrumentalness: 0.692
+Liveness: 0.113
+Valence: 0.964

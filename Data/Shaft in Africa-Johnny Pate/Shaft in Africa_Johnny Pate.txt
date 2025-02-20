@@ -1,0 +1,13 @@
+Artist: Shaft In Africa (Addis) - From "Shaft In Africa" Soundtrack
+Track Title: Johnny Pate
+Duration (minutes): 3.06
+Key: E
+Time Signature: 4
+Tempo: 115.265
+Energy: 0.858
+Danceability: 0.655
+Speechiness: 0.0589
+Acousticness: 0.038
+Instrumentalness: 0.835
+Liveness: 0.126
+Valence: 0.886

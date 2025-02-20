@@ -1,0 +1,13 @@
+Artist: Sport
+Track Title: Lightnin' Rod
+Duration (minutes): 2.628216666666667
+Key: A
+Time Signature: 4
+Tempo: 119.612
+Energy: 0.7
+Danceability: 0.757
+Speechiness: 0.214
+Acousticness: 0.288
+Instrumentalness: 2.93e-06
+Liveness: 0.0696
+Valence: 0.753

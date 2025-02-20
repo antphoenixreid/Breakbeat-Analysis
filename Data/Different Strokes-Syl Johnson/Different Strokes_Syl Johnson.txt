@@ -1,0 +1,13 @@
+Artist: Different Strokes
+Track Title: Syl Johnson
+Duration (minutes): 2.3277666666666668
+Key: D
+Time Signature: 4
+Tempo: 108.055
+Energy: 0.743
+Danceability: 0.838
+Speechiness: 0.0901
+Acousticness: 0.0981
+Instrumentalness: 0.0112
+Liveness: 0.178
+Valence: 0.785

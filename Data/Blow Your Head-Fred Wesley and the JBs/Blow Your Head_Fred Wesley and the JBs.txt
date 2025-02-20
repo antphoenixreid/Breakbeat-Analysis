@@ -1,0 +1,13 @@
+Artist: Blow Your Head
+Track Title: Fred Wesley & The J.B.'s
+Duration (minutes): 5.097333333333333
+Key: A
+Time Signature: 4
+Tempo: 120.919
+Energy: 0.944
+Danceability: 0.588
+Speechiness: 0.0513
+Acousticness: 0.0926
+Instrumentalness: 0.00311
+Liveness: 0.323
+Valence: 0.763

@@ -1,0 +1,13 @@
+Artist: Take Me To The Mardi Gras
+Track Title: Bob James
+Duration (minutes): 5.828883333333334
+Key: A#
+Time Signature: 4
+Tempo: 106.35
+Energy: 0.731
+Danceability: 0.477
+Speechiness: 0.0282
+Acousticness: 0.18
+Instrumentalness: 0.845
+Liveness: 0.0504
+Valence: 0.9

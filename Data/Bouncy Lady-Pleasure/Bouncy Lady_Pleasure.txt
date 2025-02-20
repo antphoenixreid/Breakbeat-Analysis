@@ -1,0 +1,13 @@
+Artist: Bouncy Lady
+Track Title: Pleasure
+Duration (minutes): 3.9417666666666666
+Key: C
+Time Signature: 4
+Tempo: 88.743
+Energy: 0.776
+Danceability: 0.614
+Speechiness: 0.0914
+Acousticness: 0.0787
+Instrumentalness: 3.51e-05
+Liveness: 0.0371
+Valence: 0.923

@@ -1,0 +1,13 @@
+Artist: The Assembly Line
+Track Title: Commodores
+Duration (minutes): 5.14
+Key: F
+Time Signature: 4
+Tempo: 108.346
+Energy: 0.77
+Danceability: 0.458
+Speechiness: 0.0513
+Acousticness: 0.426
+Instrumentalness: 0.00328
+Liveness: 0.081
+Valence: 0.354

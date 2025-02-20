@@ -1,0 +1,13 @@
+Artist: Cookies
+Track Title: Brother Soul
+Duration (minutes): 2.7306666666666666
+Key: A
+Time Signature: 4
+Tempo: 120.216
+Energy: 0.814
+Danceability: 0.838
+Speechiness: 0.0473
+Acousticness: 0.0185
+Instrumentalness: 0.116
+Liveness: 0.292
+Valence: 0.987

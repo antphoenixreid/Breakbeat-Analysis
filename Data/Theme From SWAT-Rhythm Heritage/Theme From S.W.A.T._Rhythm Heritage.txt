@@ -1,0 +1,13 @@
+Artist: Theme From S.W.A.T.
+Track Title: Rhythm Heritage
+Duration (minutes): 3.358216666666667
+Key: A
+Time Signature: 4
+Tempo: 109.282
+Energy: 0.897
+Danceability: 0.634
+Speechiness: 0.0398
+Acousticness: 0.00121
+Instrumentalness: 0.867
+Liveness: 0.134
+Valence: 0.963

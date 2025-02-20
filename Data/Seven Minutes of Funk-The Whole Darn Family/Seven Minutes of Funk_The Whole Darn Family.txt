@@ -1,0 +1,13 @@
+Artist: Seven Minutes of Funk
+Track Title: The Whole Darn Family
+Duration (minutes): 7.006866666666666
+Key: A#
+Time Signature: 4
+Tempo: 109.945
+Energy: 0.791
+Danceability: 0.55
+Speechiness: 0.0431
+Acousticness: 0.00048
+Instrumentalness: 0.276
+Liveness: 0.0865
+Valence: 0.673

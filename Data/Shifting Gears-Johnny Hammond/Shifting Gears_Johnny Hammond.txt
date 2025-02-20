@@ -1,0 +1,13 @@
+Artist: Shifting Gears
+Track Title: Johnny "Hammond" Smith
+Duration (minutes): 5.1757333333333335
+Key: F#
+Time Signature: 4
+Tempo: 110.77
+Energy: 0.821
+Danceability: 0.634
+Speechiness: 0.0417
+Acousticness: 0.077
+Instrumentalness: 0.00443
+Liveness: 0.0524
+Valence: 0.964

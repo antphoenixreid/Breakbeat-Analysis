@@ -1,0 +1,13 @@
+Artist: Funky Drummer
+Track Title: James Brown
+Duration (minutes): 7.021766666666666
+Key: B
+Time Signature: 4
+Tempo: 91.043
+Energy: 0.676
+Danceability: 0.696
+Speechiness: 0.213
+Acousticness: 0.736
+Instrumentalness: 0.471
+Liveness: 0.126
+Valence: 0.485

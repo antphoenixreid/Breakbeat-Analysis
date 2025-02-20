@@ -1,0 +1,13 @@
+Artist: Frisco Disco
+Track Title: Eastside Connection
+Duration (minutes): 6.874433333333333
+Key: C
+Time Signature: 4
+Tempo: 119.873
+Energy: 0.498
+Danceability: 0.657
+Speechiness: 0.0472
+Acousticness: 0.0939
+Instrumentalness: 0.00337
+Liveness: 0.384
+Valence: 0.87

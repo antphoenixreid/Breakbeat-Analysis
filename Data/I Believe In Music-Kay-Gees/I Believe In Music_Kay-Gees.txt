@@ -1,0 +1,13 @@
+Artist: I Believe In Music (feat. Something Sweet)
+Track Title: The Kay Gees
+Duration (minutes): 4.102
+Key: D
+Time Signature: 4
+Tempo: 112.213
+Energy: 0.942
+Danceability: 0.492
+Speechiness: 0.0519
+Acousticness: 0.00777
+Instrumentalness: 3.85e-05
+Liveness: 0.143
+Valence: 0.827

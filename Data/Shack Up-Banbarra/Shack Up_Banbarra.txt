@@ -1,0 +1,13 @@
+Artist: Shack Up
+Track Title: Banbarra
+Duration (minutes): 2.993333333333333
+Key: A
+Time Signature: 4
+Tempo: 111.547
+Energy: 0.624
+Danceability: 0.902
+Speechiness: 0.0604
+Acousticness: 0.0949
+Instrumentalness: 0.713
+Liveness: 0.0594
+Valence: 0.961

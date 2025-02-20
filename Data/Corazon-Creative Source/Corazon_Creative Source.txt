@@ -1,0 +1,13 @@
+Artist: Corazon
+Track Title: Creative Source
+Duration (minutes): 4.70915
+Key: A
+Time Signature: 4
+Tempo: 123.786
+Energy: 0.518
+Danceability: 0.727
+Speechiness: 0.0317
+Acousticness: 0.033
+Instrumentalness: 0.00855
+Liveness: 0.0837
+Valence: 0.83

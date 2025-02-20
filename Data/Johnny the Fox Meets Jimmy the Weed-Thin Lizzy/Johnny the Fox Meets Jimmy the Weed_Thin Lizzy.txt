@@ -1,0 +1,13 @@
+Artist: Johnny The Fox Meets Jimmy The Weed
+Track Title: Thin Lizzy
+Duration (minutes): 3.6111
+Key: C#
+Time Signature: 4
+Tempo: 102.314
+Energy: 0.619
+Danceability: 0.759
+Speechiness: 0.0506
+Acousticness: 0.0184
+Instrumentalness: 0.044
+Liveness: 0.0449
+Valence: 0.948

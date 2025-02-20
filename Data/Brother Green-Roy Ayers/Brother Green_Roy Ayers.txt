@@ -1,0 +1,13 @@
+Artist: Brother Green (The Disco King)
+Track Title: Roy Ayers Ubiquity
+Duration (minutes): 5.717333333333333
+Key: F
+Time Signature: 4
+Tempo: 117.723
+Energy: 0.784
+Danceability: 0.578
+Speechiness: 0.0618
+Acousticness: 0.25
+Instrumentalness: 0.21
+Liveness: 0.114
+Valence: 0.869

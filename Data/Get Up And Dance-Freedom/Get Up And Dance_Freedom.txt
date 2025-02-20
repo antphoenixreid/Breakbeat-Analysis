@@ -1,0 +1,13 @@
+Artist: Get Up And Dance
+Track Title: Freedom
+Duration (minutes): 3.6166666666666667
+Key: C
+Time Signature: 4
+Tempo: 106.708
+Energy: 0.894
+Danceability: 0.754
+Speechiness: 0.0848
+Acousticness: 0.194
+Instrumentalness: 7.31e-06
+Liveness: 0.33
+Valence: 0.704

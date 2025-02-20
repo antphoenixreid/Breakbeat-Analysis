@@ -1,0 +1,13 @@
+Artist: Rock Music
+Track Title: Jefferson Starship
+Duration (minutes): 3.6226666666666665
+Key: D
+Time Signature: 4
+Tempo: 101.256
+Energy: 0.845
+Danceability: 0.576
+Speechiness: 0.0314
+Acousticness: 0.0835
+Instrumentalness: 6e-05
+Liveness: 0.226
+Valence: 0.818

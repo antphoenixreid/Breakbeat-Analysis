@@ -1,0 +1,13 @@
+Artist: Hand Clapping Song
+Track Title: The Meters
+Duration (minutes): 2.943766666666667
+Key: A
+Time Signature: 4
+Tempo: 90.52
+Energy: 0.518
+Danceability: 0.805
+Speechiness: 0.0804
+Acousticness: 0.487
+Instrumentalness: 0.853
+Liveness: 0.102
+Valence: 0.631

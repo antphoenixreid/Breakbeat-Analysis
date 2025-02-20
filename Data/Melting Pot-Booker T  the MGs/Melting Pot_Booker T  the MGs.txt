@@ -1,0 +1,13 @@
+Artist: Melting Pot
+Track Title: Booker T. & the M.G.'s
+Duration (minutes): 8.246666666666666
+Key: A
+Time Signature: 4
+Tempo: 115.773
+Energy: 0.508
+Danceability: 0.599
+Speechiness: 0.0489
+Acousticness: 0.00205
+Instrumentalness: 0.725
+Liveness: 0.0967
+Valence: 0.843

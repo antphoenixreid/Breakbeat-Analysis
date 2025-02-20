@@ -1,0 +1,13 @@
+Artist: Ride, Sally, Ride
+Track Title: Dennis Coffey
+Duration (minutes): 3.1609333333333334
+Key: F#
+Time Signature: 4
+Tempo: 117.232
+Energy: 0.808
+Danceability: 0.589
+Speechiness: 0.0467
+Acousticness: 0.0156
+Instrumentalness: 0.877
+Liveness: 0.0895
+Valence: 0.952

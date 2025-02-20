@@ -1,0 +1,13 @@
+Artist: You Made Me What I Am
+Track Title: The Jackson 5
+Duration (minutes): 2.9991
+Key: A#
+Time Signature: 4
+Tempo: 114.857
+Energy: 0.947
+Danceability: 0.586
+Speechiness: 0.0538
+Acousticness: 0.259
+Instrumentalness: 0.000338
+Liveness: 0.0809
+Valence: 0.784

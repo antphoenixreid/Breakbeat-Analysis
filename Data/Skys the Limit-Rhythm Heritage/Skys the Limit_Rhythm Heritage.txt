@@ -1,0 +1,13 @@
+Artist: Sky's The Limit
+Track Title: Rhythm Heritage
+Duration (minutes): 4.254666666666667
+Key: C#
+Time Signature: 4
+Tempo: 113.682
+Energy: 0.744
+Danceability: 0.748
+Speechiness: 0.0432
+Acousticness: 0.0201
+Instrumentalness: 0.077
+Liveness: 0.0799
+Valence: 0.916

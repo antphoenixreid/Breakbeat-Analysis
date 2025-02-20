@@ -1,0 +1,13 @@
+Artist: Walk This Way
+Track Title: Aerosmith
+Duration (minutes): 3.6718333333333333
+Key: F
+Time Signature: 4
+Tempo: 108.709
+Energy: 0.73
+Danceability: 0.653
+Speechiness: 0.0429
+Acousticness: 0.0115
+Instrumentalness: 1.02e-05
+Liveness: 0.0776
+Valence: 0.894

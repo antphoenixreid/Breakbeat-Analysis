@@ -1,0 +1,13 @@
+Artist: The Mexican
+Track Title: Babe Ruth
+Duration (minutes): 3.43155
+Key: G
+Time Signature: 4
+Tempo: 112.634
+Energy: 0.42
+Danceability: 0.686
+Speechiness: 0.0528
+Acousticness: 0.0242
+Instrumentalness: 0.00172
+Liveness: 0.135
+Valence: 0.457

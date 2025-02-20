@@ -1,0 +1,13 @@
+Artist: I Know You Got Soul
+Track Title: Bobby Byrd
+Duration (minutes): 4.6931
+Key: A
+Time Signature: 4
+Tempo: 112.792
+Energy: 0.544
+Danceability: 0.843
+Speechiness: 0.194
+Acousticness: 0.0977
+Instrumentalness: 0.000382
+Liveness: 0.0726
+Valence: 0.837

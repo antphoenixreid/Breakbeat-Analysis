@@ -1,0 +1,13 @@
+Artist: Funky President (People It's Bad)
+Track Title: James Brown
+Duration (minutes): 3.973333333333333
+Key: B
+Time Signature: 4
+Tempo: 105.807
+Energy: 0.671
+Danceability: 0.876
+Speechiness: 0.162
+Acousticness: 0.155
+Instrumentalness: 0.00857
+Liveness: 0.0995
+Valence: 0.841

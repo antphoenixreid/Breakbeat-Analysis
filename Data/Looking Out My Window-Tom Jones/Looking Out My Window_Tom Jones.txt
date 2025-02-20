@@ -1,0 +1,13 @@
+Artist: Looking Out My Window
+Track Title: Tom Jones
+Duration (minutes): 2.33955
+Key: A
+Time Signature: 4
+Tempo: 109.361
+Energy: 0.793
+Danceability: 0.501
+Speechiness: 0.132
+Acousticness: 0.013
+Instrumentalness: 0
+Liveness: 0.422
+Valence: 0.646

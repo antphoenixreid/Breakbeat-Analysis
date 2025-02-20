@@ -1,0 +1,13 @@
+Artist: Kissing My Love
+Track Title: Bill Withers
+Duration (minutes): 3.8507333333333333
+Key: C#
+Time Signature: 4
+Tempo: 93.654
+Energy: 0.526
+Danceability: 0.825
+Speechiness: 0.183
+Acousticness: 0.3
+Instrumentalness: 0.000152
+Liveness: 0.0552
+Valence: 0.891

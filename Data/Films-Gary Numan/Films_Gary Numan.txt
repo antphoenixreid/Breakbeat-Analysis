@@ -1,0 +1,13 @@
+Artist: Films
+Track Title: Gary Numan
+Duration (minutes): 4.157766666666666
+Key: A
+Time Signature: 4
+Tempo: 97.882
+Energy: 0.708
+Danceability: 0.525
+Speechiness: 0.0337
+Acousticness: 3.81e-05
+Instrumentalness: 0.46
+Liveness: 0.1
+Valence: 0.5

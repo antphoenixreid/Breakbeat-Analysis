@@ -1,0 +1,13 @@
+Artist: Willie Chase
+Track Title: J.J. Johnson
+Duration (minutes): 3.1166666666666667
+Key: D
+Time Signature: 4
+Tempo: 119.613
+Energy: 0.841
+Danceability: 0.746
+Speechiness: 0.0528
+Acousticness: 0.308
+Instrumentalness: 0.806
+Liveness: 0.0545
+Valence: 0.622

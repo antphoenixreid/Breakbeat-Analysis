@@ -1,0 +1,13 @@
+Artist: I Like Funky Music
+Track Title: Uncle Louie
+Duration (minutes): 4.01
+Key: F
+Time Signature: 4
+Tempo: 108.232
+Energy: 0.687
+Danceability: 0.803
+Speechiness: 0.121
+Acousticness: 0.379
+Instrumentalness: 3.7e-06
+Liveness: 0.354
+Valence: 0.818

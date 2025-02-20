@@ -1,0 +1,13 @@
+Artist: The Champ - Original Version
+Track Title: The Mohawks
+Duration (minutes): 2.63
+Key: C
+Time Signature: 4
+Tempo: 111.73
+Energy: 0.824
+Danceability: 0.772
+Speechiness: 0.0762
+Acousticness: 0.0671
+Instrumentalness: 0.932
+Liveness: 0.3
+Valence: 0.888

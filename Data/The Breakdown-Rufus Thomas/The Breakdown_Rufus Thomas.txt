@@ -1,0 +1,13 @@
+Artist: The Breakdown - Pt. 1
+Track Title: Rufus Thomas
+Duration (minutes): 3.296883333333333
+Key: A
+Time Signature: 4
+Tempo: 97.385
+Energy: 0.771
+Danceability: 0.876
+Speechiness: 0.0967
+Acousticness: 0.135
+Instrumentalness: 0.00182
+Liveness: 0.0503
+Valence: 0.886

@@ -1,0 +1,13 @@
+Artist: I Get Lifted
+Track Title: KC & The Sunshine Band
+Duration (minutes): 3.0648833333333334
+Key: A#
+Time Signature: 4
+Tempo: 106.182
+Energy: 0.649
+Danceability: 0.825
+Speechiness: 0.0444
+Acousticness: 0.00186
+Instrumentalness: 0.000885
+Liveness: 0.049
+Valence: 0.921
