@@ -1,3 +1,4 @@
 Data/*/*.mp3
 Supplement Code/testbed.ipynb
 Main/test_beat_tempo_eval.ipynb
+errors.log

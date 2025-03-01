@@ -117,7 +117,7 @@ csv_df = pd.read_csv(csv_file)
 # Multithreading: Process multiple songs in parallel
 audio_process_list = []
 
-with ThreadPoolExecutor(max_workers=4) as executor:
+with ThreadPoolExecutor(max_workers=2) as executor:
     future_to_song = {executor.submit(process_song, row): row for _, row in csv_df.iterrows()}
 
     for future in as_completed(future_to_song):
