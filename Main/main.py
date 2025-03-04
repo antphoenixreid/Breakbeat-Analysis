@@ -106,6 +106,8 @@ def process_song(row):
         data_dict["Time Domain"] = (y, sr)
         data_dict["Frequency Domain"] = song_processed_data
         song_dict[key] = data_dict
+
+        return song_dict
     except Exception as e:
         logging.error(f"Unexpected error processing {key}: {str(e)}")
         return None  # Gracefully handle unexpected failures
